@@ -132,3 +132,10 @@ taxi_zones.zip
 *.csv
 yellow-trip-parquet/yellow_tripdata_2009-01.parquet
 *.parquet
+*.dbf
+*.prj
+*.sbx
+*.sbn
+*.shp
+*.xml
+*.shx
