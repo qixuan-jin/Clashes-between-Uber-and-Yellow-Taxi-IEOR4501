@@ -4,7 +4,6 @@ CREATE TABLE IF NOT EXISTS hourly_weather (
     DATE DATE,
     HourlyWindSpeed FLOAT32,
     HourlyPrecipitation FLOAT32
-
 );
 
 CREATE TABLE IF NOT EXISTS daily_weather (
@@ -33,4 +32,5 @@ CREATE TABLE IF NOT EXISTS uber_trips (
     dropoff_latitude FLOAT32,
     dropoff_longitude FLOAT32,
     distance FLOAT32
-); 
+);
+ 
