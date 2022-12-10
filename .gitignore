@@ -139,5 +139,6 @@ yellow-trip-parquet/yellow_tripdata_2009-01.parquet
 *.shp
 *.xml
 *.shx
+*.db
 local edit.ipynb
 *.db
