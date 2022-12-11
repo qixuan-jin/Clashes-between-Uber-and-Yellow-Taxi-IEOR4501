@@ -31,5 +31,5 @@ All required libraries to install to run the project can be found in the require
 pip install -r requirements.txt
 ```
 ### Contribution to the Project
-Qixuan Jin is responsible for Part 1: Data cleaning & Part 4: Data Visualization. 
-Lorenzo Rega is responsible for Part 2: Sorting Cleaned Data & Part 3: Understanding the Data by queries. 
+Qixuan Jin is responsible for Part 1: Data cleaning & Part 4: Data Visualization. <br>
+Lorenzo Rega is responsible for Part 2: Sorting Cleaned Data & Part 3: Understanding the Data by queries. <br>
