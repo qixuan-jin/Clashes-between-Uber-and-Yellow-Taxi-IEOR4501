@@ -1,0 +1,15 @@
+re
+bs4
+math
+warnings
+requests
+mapclassify
+numpy
+pandas
+sqlalchemy
+geopandas
+matplotlib
+scipy
+PIL
+keplergl
+Ipython
