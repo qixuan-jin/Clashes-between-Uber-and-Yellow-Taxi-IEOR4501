@@ -11,9 +11,9 @@ In March 2022, Uber announced that they will allow its New York City-based users
 This project aims to find some trends to back up why Uber and taxis have clashed for years. <br>
 
 The data used includes: <br>
--a sample of Uber rides from 01-2009 through 06-2015 <br> [See Details](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
--Yellow Taxi trip data from 01-2009 through 06-2015 <br>
--Historical weather data from 01-2009 through 06-2015 <br>
+-a sample of Uber rides from 01-2009 through 06-2015 <br> 
+-Yellow Taxi trip data from 01-2009 through 06-2015 <br> [See Details](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+-Historical weather data from 01-2009 through 06-2015 <br> [See Details](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data?stations=72505394728)
 
  
 First of all, the data has been cleaned using pandas, then stored in SQLlite database. 
