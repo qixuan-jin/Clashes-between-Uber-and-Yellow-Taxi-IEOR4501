@@ -11,7 +11,7 @@ In March 2022, Uber announced that they will allow its New York City-based users
 This project aims to find some trends to back up why Uber and taxis have clashed for years.
 
 The data used includes:
--a sample of Uber rides from 01-2009 through 06-2015
+-a sample of Uber rides from 01-2009 through 06-2015 <br>
 -Yellow Taxi trip data from 01-2009 through 06-2015
 -Historical weather data from 01-2009 through 06-2015
 
