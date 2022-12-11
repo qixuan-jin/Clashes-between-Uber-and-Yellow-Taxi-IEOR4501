@@ -22,11 +22,14 @@ Finally, some visualizations about the data have been made.
 
 All the code could be run by downloading the [Jupyter Notebook](https://github.com/lorenzorega/TfA_project_final/blob/main/Project_Taxi_Uber_trips.ipynb) file and install the rquired modules given below.
 
-#### Result of Heatmap in Visualization 4
+### Result of Heatmap in Visualization 4
 ![alt text](https://github.com/lorenzorega/TfA_project_final/blob/main/heat_map.png?raw=true)
 
-#### Required Module
+### Required Module
 All required libraries to install to run the project can be found in the requirements.txt file
 ```
 pip install -r requirements.txt
 ```
+### Contribution to the Project
+Qixuan Jin is responsible for Part 1: Data cleaning & Part 4: Data Visualization. 
+Lorenzo Rega is responsible for Part 2: Sorting Cleaned Data & Part 3: Understanding the Data by queries. 
