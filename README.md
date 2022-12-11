@@ -12,8 +12,8 @@ This project aims to find some trends to back up why Uber and taxis have clashed
 
 The data used includes: <br>
 -a sample of Uber rides from 01-2009 through 06-2015 <br> 
--Yellow Taxi trip data from 01-2009 through 06-2015 <br> [See Details](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
--Historical weather data from 01-2009 through 06-2015 <br> [See Details](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data?stations=72505394728)
+-Yellow Taxi trip data from 01-2009 through 06-2015  [See Details](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) <br>
+-Historical weather data from 01-2009 through 06-2015 [See Details](https://www.ncei.noaa.gov/access/search/data-search/local-climatological-data?stations=72505394728) <br>
 
  
 First of all, the data has been cleaned using pandas, then stored in SQLlite database. 
