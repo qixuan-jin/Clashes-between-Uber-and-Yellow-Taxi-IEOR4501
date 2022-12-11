@@ -11,7 +11,7 @@ In March 2022, Uber announced that they will allow its New York City-based users
 This project aims to find some trends to back up why Uber and taxis have clashed for years. <br>
 
 The data used includes: <br>
--a sample of Uber rides from 01-2009 through 06-2015 <br>
+-a sample of Uber rides from 01-2009 through 06-2015 <br> [See Details](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 -Yellow Taxi trip data from 01-2009 through 06-2015 <br>
 -Historical weather data from 01-2009 through 06-2015 <br>
 
@@ -23,5 +23,8 @@ Finally, some visualizations about the data have been made.
 #### Result of Heatmap in Visualization 4
 ![alt text](https://github.com/lorenzorega/TfA_project_final/blob/main/heat_map.png?raw=true)
 
-#### Requirements
-All required libraries to install to make the project work can be found in the requirements.txt file
+#### Required Module
+All required libraries to install to run the project can be found in the requirements.txt file
+```
+pip install -r requirements.txt
+```
