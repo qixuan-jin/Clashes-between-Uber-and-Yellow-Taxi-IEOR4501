@@ -1,4 +1,5 @@
 re
+os
 bs4
 math
 warnings
