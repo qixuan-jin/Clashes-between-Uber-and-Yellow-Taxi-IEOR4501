@@ -15,3 +15,6 @@ taxi_zones.zip
 local edit.ipynb
 *.db
 *.db
+.ipynb_checkpoints/local edit-checkpoint.ipynb
+.ipynb_checkpoints/Project Scaffolding (1)-checkpoint.ipynb
+.ipynb_checkpoints/Project_Taxi_Uber_trips-checkpoint.ipynb
