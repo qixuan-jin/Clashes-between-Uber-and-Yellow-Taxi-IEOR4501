@@ -20,5 +20,8 @@ First of all, the data has been cleaned using pandas, then stored in SQLlite dat
 The database has then been queried through the use of SQL in order to answer to some questions.
 Finally, some visualizations about the data have been made. 
 
+#### Result of Heatmap in Visualization 4
+![alt text](https://github.com/lorenzorega/TfA_project_final/blob/main/heat_map.png?raw=true)
+
 #### Requirements
 All required libraries to install to make the project work can be found in the requirements.txt file
