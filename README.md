@@ -16,6 +16,9 @@ The data used includes: <br>
 -Historical weather data from 01-2009 through 06-2015 <br>
 
  
-First of all, the data has been cleaned, then stored in SQLlite database. 
+First of all, the data has been cleaned using pandas, then stored in SQLlite database. 
 The database has then been queried through the use of SQL in order to answer to some questions.
 Finally, some visualizations about the data have been made. 
+
+#### Requirements
+All required libraries to install to make the project work can be found in the requirements.txt file
