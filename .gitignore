@@ -142,3 +142,4 @@ yellow-trip-parquet/yellow_tripdata_2009-01.parquet
 *.db
 local edit.ipynb
 *.db
+*.db
